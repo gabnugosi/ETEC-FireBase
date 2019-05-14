@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "943875278241",
+    "firebase_url": "https://etec-firebase-gabriel.firebaseio.com",
+    "project_id": "etec-firebase-gabriel",
+    "storage_bucket": "etec-firebase-gabriel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943875278241:android:34ba1c782e011ba5",
+        "android_client_info": {
+          "package_name": "br.com.etechoracio.firebasegabriel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943875278241-dtcf5jq5vdsvknt2nuoh5bh7ppn5n25a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.etechoracio.firebasegabriel",
+            "certificate_hash": "6c27e96497b2c62e1911f45f543cdb1b6875accc"
+          }
+        },
+        {
+          "client_id": "943875278241-2c0a88f18tego23v8p5b222bddqr7a7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXvXWYhS_6_otkRiVaMBI1Qne7JGkuyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943875278241-2c0a88f18tego23v8p5b222bddqr7a7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
